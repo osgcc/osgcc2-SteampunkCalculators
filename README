@@ -1,0 +1,33 @@
+Steampunk Calculators
+---------------------
+
+A game by Eduardo Gonzalez and Josh Albrecht.
+
+Music is "3 Ghosts I" from Nine Inch Nails, and is under a creative commons
+license: (CC:BY-NC-SA)
+
+To play:
+--------
+
+Download python (version 2.5 recommended) and pygame.
+
+Then, run the steamcalc.py script.
+
+Objective:
+----------
+
+To get to the goal (the infinity circle) by jumping around, using
+steam vents, and avoiding vicious dot eating calculators!
+
+For an extra challenge, pick up the (g) circle at the beginning of a
+level to disable your firepower!
+
+Controls:
+---------
+
+Left / A - move left
+Right / D - move right
+Up / W - jumps
+
+Left click - shoot
+Right click - build
